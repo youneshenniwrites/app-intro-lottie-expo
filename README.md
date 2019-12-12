@@ -26,7 +26,7 @@ The technologies used in this app are the following:
 1. Clone this repo to your local machine.
 
 ```
-git clone https://github.com/yhenni1989/app-intro-lottie.git
+git clone https://github.com/yhenni1989/app-intro-lottie-expo.git
 
 cd app-intro-lottie-expo
 ```
