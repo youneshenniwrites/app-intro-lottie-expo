@@ -41,16 +41,16 @@ yarn
 npm install
 ```
 
-3. Launch the React Native app in your simulator under your project directory.
+3. Launch the simulator.
 
 ```
-expo start --ios
+yarn ios
 
 # or
 
-expo start --android
+yarn android
 ```
 
 ## Step by step tutorial
 
-* Read the full series of articles detailing the building process of this app [here.](https://bit.ly/2RTv0ok)
+* Read the full series of articles detailing the building process of this app [here.](https://medium.com/@henni1989younes/app-intro-with-react-native-expo-and-airbnb-lottie-668af1dbe401)
