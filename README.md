@@ -41,7 +41,17 @@ yarn
 npm install
 ```
 
-3. Launch the simulator.
+3. Launch the metro bundler.
+
+```
+yarn start
+```
+
+This will start the metro bundler in your browser.
+
+4. Lanuch the simulator on your machine
+
+If you have Xcode or Android Emulator installed, then you can launch the simulator using one of the following commands.
 
 ```
 yarn ios
@@ -50,6 +60,17 @@ yarn ios
 
 yarn android
 ```
+
+If you don't have a simulator installed in your machine, skip to step 5.
+
+5. Test the app in your device.
+
+ * You must install the Expo Client app on your phone. Links in Section 2 of the [docs](https://docs.expo.io/versions/v36.0.0/get-started/installation/).
+ 
+ * Scan the QR code provided by expo. Located at the bottom left corner in the Metro Bundler browser page.
+
+<img width="1441" alt="Metro Bundler" src="https://user-images.githubusercontent.com/26605247/70796392-0d16f980-1d9a-11ea-90b3-102ad457cb19.png">
+
 
 ## Step by step tutorial
 
